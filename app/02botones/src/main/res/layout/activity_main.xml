@@ -132,7 +132,7 @@
                 android:layout_height="match_parent"
                 android:hint="Abrir para ver opciones"
                 android:textAlignment="center"
-                android:entries="@array/valores_array"/>
+                android:entries="@array/arrayempleos"/>
         </LinearLayout>
 
         <LinearLayout
